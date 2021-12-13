@@ -2,7 +2,6 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 60%;
 }
 
 .center {
@@ -10,8 +9,12 @@
     text-align: center;
 }
 
+audio {
+  font-size: 55px;
+}
+
 p {
-    font-size: 6em;
+    font-size: 75px;
 }
 
 .q {
